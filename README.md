@@ -4,7 +4,7 @@ You can easily read and write flash storage, such as W25Q32
 
 This lib is available for ESP32\ESP8266 STM32dunio Arduino
 
-I only tested it on stm32
+
 
 example
 ```cpp

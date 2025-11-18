@@ -1,0 +1,39 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Classes (KEYWORD1)
+#######################################
+
+SFLib	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin    KEYWORD2
+read_data	KEYWORD2
+write_one_sector_data	KEYWORD2
+write_one_block_data	KEYWORD2
+write_arbitrary_data	KEYWORD2
+sector_erase	KEYWORD2
+bulk_erase	KEYWORD2
+read_status	KEYWORD2
+write_status	KEYWORD2
+read_id	KEYWORD2
+read_chipid	KEYWORD2
+write_enable	KEYWORD2
+write_disable   KEYWORD2
+wakeup    KEYWORD2
+check_busy   KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
